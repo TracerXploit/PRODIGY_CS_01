@@ -1,5 +1,7 @@
 # Caesar Cipher
 
+![Project Icon](mihirsathvara56/PRODIGY_CS_01/icon.webp)
+
 This project is part of my internship at Prodigy InfoTech. It implements the Caesar Cipher algorithm in Python to perform encryption and decryption of messages.
 
 ## Features
