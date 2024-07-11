@@ -1,4 +1,5 @@
 def caesar_cipher(text, shift, encrypt=True):
+    
     """
     Encrypts or decrypts a text using the Caesar Cipher algorithm.
 
@@ -6,7 +7,9 @@ def caesar_cipher(text, shift, encrypt=True):
     :param shift: The shift value for the Caesar Cipher.
     :param encrypt: A boolean indicating whether to encrypt or decrypt the text.
     :return: The encrypted or decrypted text.
+    
     """
+    
     if not encrypt:
         shift = -shift
 
