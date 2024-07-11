@@ -43,19 +43,19 @@ The Caesar Cipher algorithm shifts each letter in the plaintext by a fixed numbe
 ## Output Examples
 
 ## Encrypting a Message
-
+```
 Do you want to (e)ncrypt or (d)ecrypt a message? Enter 'q' to quit: e
 Enter your message: OpenAI is awesome!
 Enter shift value: 5
 Encrypted message: TsjsFN nx fbjtrj!
-
+```
 ## Decrypting a Message
-
+```
 Do you want to (e)ncrypt or (d)ecrypt a message? Enter 'q' to quit: d
 Enter your message: TsjsFN nx fbjtrj!
 Enter shift value: 5
 Decrypted message: OpenAI is awesome!
-
+```
 ## Contributing
 
 If you have suggestions for improvements or find any bugs, feel free to open an issue or submit a pull request.
