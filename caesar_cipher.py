@@ -1,6 +1,7 @@
 def caesar_cipher(text, shift, encrypt=True):
     
     """
+    
     Encrypts or decrypts a text using the Caesar Cipher algorithm.
 
     :param text: The input text to encrypt or decrypt.
