@@ -2,7 +2,7 @@
 
 ![Project Icon](icon.jpg)
 
-This project is part of my internship at Prodigy InfoTech. It implements the Caesar Cipher algorithm in Python to perform encryption and decryption of messages.
+Implements the Caesar Cipher algorithm in Python to perform encryption and decryption of messages.
 
 ## Features
 
